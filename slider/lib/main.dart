@@ -9,6 +9,7 @@ void main() {
       home: Scaffold(
         body: ControlSlider(),
 
+
         appBar: AppBar(title: Text('APELSEN'),automaticallyImplyLeading: false ,
         backgroundColor: Color(0xffF1650E,),),
         // appBar: AppBar(
